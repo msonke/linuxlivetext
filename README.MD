@@ -9,3 +9,6 @@ I looked for similar programs for Linux, but with no luck.  Thus, I decided to t
 This will probably remain a placeholder for some time, but I did want to mark the project here as well as do another deeper search to ensure there is no existing product like this available.
 
 If you like this idea, feel free to contribute, fork or create your own solution, as I may not be able to progress in a timely manner myself.
+
+*Edit:  Looks like there are a few choices, such as 'TextSnatcher' or 'Frog', but both are not background running application and require more of a manual approach than the project I am suggesting here.
+
